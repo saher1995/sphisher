@@ -11,8 +11,8 @@
 * `apt update`
 * `apt install git curl php wget -y`
 * `git clone https://github.com/saher1995/sphishr.git`
-* `cd zphisher`
-#### > Run : `bash zphisher.sh`
+* `cd sphisher`
+#### > Run : `bash sphisher.sh`
 
 ## Single Command :
 ```
