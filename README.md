@@ -32,8 +32,11 @@ apt update ; apt install git curl wget php -y ; https://github.com/saher1995/sph
 #### [+] Easy for Beginners !
 
 ## Thanks :
-#### > Saher Ahmed Hal
 #### > Team X-Fighter
+#### > Ahmed Moatsem
+#### > Ahmed Abdelneem
+#### > Elie Doumeith
+#### > Mohamed Alkhadragy
 
 ## Tunelling Options :
 #### > Localhost
