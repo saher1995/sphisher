@@ -38,7 +38,7 @@ printf "      \e[32;1m    ____) | |    | | | | \__ | | | |  __| |    \e[0m\n"
 printf "      \e[32;1m   |_____/|_|    |_| |_|_|___|_| |_|\___|_|    \e[0m\n"
 printf "      \e[33;1m                     Version 1.0               \e[0m\n"
 printf "\n"
-printf "   \e[92m[\e[37;1m+\e[92m]\e[0m\e[33;1m Tool Created by Saher Ahmed Hal \e[0m\n"
+printf "   \e[92m[\e[37;1m+\e[92m]\e[0m\e[33;1m Tool Created by Saher Ahmed Hal&Mohamed Abowaged \e[0m\n"
 printf "\n"
 
 }
